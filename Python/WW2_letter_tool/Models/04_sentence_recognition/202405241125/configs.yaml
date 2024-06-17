@@ -1,0 +1,9 @@
+batch_size: 32
+height: 96
+learning_rate: 0.0005
+max_text_length: 93
+model_path: Models/04_sentence_recognition\202405241125
+train_epochs: 1000
+train_workers: 20
+vocab: P!,.&E )ZT3dMg+fD"8oy(*5GjRvlzYnawNhk#X2Oe0b7FV1UWAtS/Q-?6:mu49pBIJisqcxKL'Hr;C
+width: 1408
